@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SimpleDHT</string>
+    <string name="menu_settings">Settings</string>
+    <string name="button_ldump">L</string>
+    <string name="button_gdump">G</string>
+    <string name="button_test">T</string>
+    <string name="button_deleteKey">D</string>
+    <string name="button_deleteLocal">LD</string>
+    <string name="button_deleteGlobal">GD</string>
+
+</resources>

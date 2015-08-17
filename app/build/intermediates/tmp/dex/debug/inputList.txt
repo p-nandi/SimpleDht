@@ -1,0 +1,1 @@
+/home/phantom/AndroidStudioProjects/SimpleDht/app/build/intermediates/classes/debug
